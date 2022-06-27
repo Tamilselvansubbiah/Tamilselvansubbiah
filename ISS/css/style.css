@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+
+   
+}
+
+.btns {
+    background: linear-gradient(#373B44,#4286f4);
+}
+
+
+
+.navbar-nav {
+    margin-left: 530px;
+     font-size: 20px;
+    
+}
+
+
+.navbar-nav a:hover {
+    border-bottom: 2px solid #4286f4;
+}
+
+
+
+::selection {
+    
+    background: #4286f4;
+  }
+
+#map { height: 480px; }
